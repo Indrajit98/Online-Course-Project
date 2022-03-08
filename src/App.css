@@ -1,5 +1,16 @@
 .App {
   text-align: center;
+  width:1140px;
+  margin:0 auto;
+}
+.courseItem{
+  display: flex;
+  width:800px;
+  flex-wrap: wrap;
+}
+.courseContainer{
+  display:flex;
+  
 }
 
 .App-logo {

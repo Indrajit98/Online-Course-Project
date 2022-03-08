@@ -1,0 +1,11 @@
+.header{
+    background-color: rgba(182, 180, 180, 0.2);
+    font-size: 25px;
+    padding:10px;
+    text-align: right;
+}
+.header a{
+    padding-right: 10px;
+    color:#B4690E;
+    text-decoration: none;
+}
